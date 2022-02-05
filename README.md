@@ -3,7 +3,7 @@ This repo provide code and dataset for paper "Unsupervised Spectrum Anomaly Dete
 
 The download links for the IAD dataset are provided in dataset.md.
 
-The file model.py provide the defination of deep learning models used our paper.
+The file model.py provides the defination of deep learning models used our paper.
 
 The file train.py is the script for model training.
 
